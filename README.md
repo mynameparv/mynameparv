@@ -113,7 +113,7 @@
       </a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/mynameparv/mynameparv" target="_blank">
+      <a href="https://github.com/mynameparv" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="60" alt="GitHub"/><br/>
         <sub><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></sub>
       </a>
