@@ -1,3 +1,6 @@
+<!--
+
+
 <p align="center"> 
   <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true" alt="GIF showcase" width="auto"/> 
 </p>
@@ -129,19 +132,7 @@
         <img src="https://github.com/just-surviving/just-surviving/blob/main/image.png?raw=true" height="60" alt="Medium"/><br/>
         <sub><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></sub>
       </a>
+      
     </td>
-  </tr>
-</table>
+    
 
----
-
-<p align="center">
-<img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/sekiro-mortal-blade.gif?raw=true" width=wrap_content />
-</p>
-
-<p align = center><i>"Hesitation is Defeat"</i></p>
-
----
-<p align="center">
-<img src="https://github.com/FR34KY-CODER/FR34KY-CODER/raw/main/footer.png?raw=true">
-</p>
