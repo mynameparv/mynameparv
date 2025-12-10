@@ -1,4 +1,4 @@
-<!--
+
 
 
 <p align="center"> 
@@ -121,18 +121,32 @@
         <sub><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></sub>
       </a>
     </td>
-    <!--<td align="center" width="20%">
+  <td align="center" width="20%">
       <a href="https://wwww.youtube.com" target="_blank">
         <img src="https://www.abhi nahin hai.com" height="60" alt="Portfolio"/><br/>
         <sub><img src="https://img.shields.io/badge/Portfolio-02075D?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/></sub>
       </a>
-    </td> -->
+    </td> 
     <td align="center" width="20%">
       <a href="https://www.instagram.com/parva_7001" target="_blank">
         <img src="https://github.com/just-surviving/just-surviving/blob/main/image.png?raw=true" height="60" alt="Medium"/><br/>
         <sub><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></sub>
       </a>
-      
     </td>
+      </tr>
+</table>
+ 
+ ---
+
+<p align="center">
+<img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/sekiro-mortal-blade.gif?raw=true" width=wrap_content />
+</p>
+
+<p align = center><i>"Hesitation is Defeat"</i></p>
+
+---
+<p align="center">
+<img src="https://github.com/FR34KY-CODER/FR34KY-CODER/raw/main/footer.png?raw=true">
+</p>
     
 
